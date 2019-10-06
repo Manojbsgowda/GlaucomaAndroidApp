@@ -1,0 +1,13 @@
+package com.example.musadiq.log;
+
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+public class row_data extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_row_data);
+    }
+}

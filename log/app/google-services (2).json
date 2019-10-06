@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "268718869346",
+    "firebase_url": "https://karthiknetralaya-88b78.firebaseio.com",
+    "project_id": "karthiknetralaya-88b78",
+    "storage_bucket": "karthiknetralaya-88b78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268718869346:android:ae191c2557b8be67",
+        "android_client_info": {
+          "package_name": "com.example.musadiq.log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268718869346-7qgho9n0mj73qmkc6rvbun4r2ilhnanu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhdor5Yl3-u3trhHP4y5HmjFJ4D6YFTfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

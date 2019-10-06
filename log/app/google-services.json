@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "900986888094",
+    "firebase_url": "https://logindemo-dc709.firebaseio.com",
+    "project_id": "logindemo-dc709",
+    "storage_bucket": "logindemo-dc709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900986888094:android:ae191c2557b8be67",
+        "android_client_info": {
+          "package_name": "com.example.musadiq.log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900986888094-5ne2pj5erv6g3t05mhmhcafse9p15qo6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musadiq.log",
+            "certificate_hash": "207ce8dcbb16e79bcc593e034101037ecb580e48"
+          }
+        },
+        {
+          "client_id": "900986888094-klh8etinvehh0pmb9ajocq7q4a67m2tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqGDmqCq9HdDHMvNM0BbkWpAjflttKjLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900986888094-klh8etinvehh0pmb9ajocq7q4a67m2tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

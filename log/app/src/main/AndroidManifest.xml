@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.musadiq.log">
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/down"
+        android:label="GLAUCOMA"
+        android:roundIcon="@mipmap/down"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".first"/>
+        <activity android:name=".dash" />
+        <activity android:name=".register" />
+        <activity android:name=".about" />
+        <activity android:name=".activity_grid_item" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".row_data" />
+        <activity android:name=".splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SecondActivity" />
+        <activity android:name=".MainActivity1"/>
+        <activity android:name=".AddEditAlarmActivity" />
+        <activity
+            android:name=".AlarmLandingPageActivity"
+            android:theme="@style/AlertLandingPageTheme" />
+
+        <service android:name=".LoadAlarmsService" />
+
+        <receiver android:name=".LoadAlarmsReceiver" />
+
+        <receiver android:name=".AlarmReceiver" />
+
+        <activity android:name=".PasswordActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".UpdatePassword" />
+        <activity android:name=".Youtube"></activity>
+    </application>
+
+</manifest>
