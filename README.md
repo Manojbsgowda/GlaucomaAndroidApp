@@ -1,2 +1,2 @@
 # GlaucomaAndroidApp
-Android based apllication for Glaucoma patients
+Android based aplication for Glaucoma dieasese patients
