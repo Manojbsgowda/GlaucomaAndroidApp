@@ -1,5 +1,5 @@
 # GlaucomaAndroidApp
-# Android based aplication for Glaucoma disease patients
+# Android based application for Glaucoma disease patients
 Glaucoma is an Eye disease that damages the eye optic nerve can lead to loss of vision and even blindness.its very serious when they cant take drops on time.every time no one remember in there busy schedule
 for that we designed an Android based application for patients to take medicines on time.
 In our application first Patients has to register for the application followed that they can provided basic information like which eye affected(right/left) age,sex etc..
