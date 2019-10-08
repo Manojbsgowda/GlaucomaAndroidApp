@@ -8,7 +8,9 @@ next it will enters to main page in that we designed grid layout in that
 firstly patients know about the Glaucoma and how its affect and how to avoid all those things
 # second grid:
 here we placed many of drops images because based on the glaucoma level patients has to take drops 2 to 3 times a day . for every level diffrent drops are assigned by doctor so we put images to know first
-# third grid
-Alarm section here patients can set the alarm for particluar drops and time for which eye..it will remainds the patients on time 
+# third grid:
+Alarm section here patients can set the alarm for particluar drops and time for which eye..it will remainds the patients on time with notification to take the drops
+# fourth grid
+here we assigned an emergencey contact of doctors and appointement for the hospital.
 
 
